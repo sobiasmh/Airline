@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Sobia/Downloads/rs2xml (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sobia/Downloads/Compressed/mysql-connector-java-5.1.49/mysql-connector-java-5.1.49/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sobia/Downloads/Compressed/jar_files/AbsoluteLayout-RELEASE122.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sobia/Downloads/Compressed/Airlinereservationsystem-master/Airlinereservationsystem-master/airlineresevation/airlineresevation/drivers/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
